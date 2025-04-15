@@ -10,6 +10,7 @@
 
 
 ## 🛠️ 部署指南
+0.安装node.js软件https://nodejs.org/zh-cn/download
 1.下载压缩包并解压
 
 2.点击setup-and-start.bat安装相关依赖（请确保安装了node.js）耐心等待出现‘Press any key to continue . . .’
